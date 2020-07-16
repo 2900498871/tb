@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align = "center">
 <img alt="Sym" src="https://user-images.githubusercontent.com/873584/52320309-9555a100-2a09-11e9-9252-f04dc47b0a31.png">
 <br><br>
@@ -749,3 +750,7 @@ API
 * [@gh0stkey](https://github.com/gh0stkey)
 * [@SeagullGR](https://github.com/SeagullGR)
 * [长亭科技](https://www.chaitin.cn)
+=======
+# tb
+游戏吧
+>>>>>>> c83e83776c1ae00e86db72a034b149b38501124d
